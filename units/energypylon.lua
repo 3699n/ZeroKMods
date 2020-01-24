@@ -1,6 +1,6 @@
-return { analpenetrator = {
-  unitname                      = [[analpenetrator]],
-  name                          = [[Anal Penetrator]],
+return { energypylon = {
+  unitname                      = [[energypylon]],
+  name                          = [[Energy Pylon]],
   description                   = [[Anally penetrates overdrive grid]],
   activateWhenBuilt             = true,
   buildCostMetal                = 1500,
